@@ -1,3 +1,5 @@
+## Location
+Hall A
 
 ## Matz Note [@yukihiro_matz](https://twitter.com/syukihiro_matz)
 * Minaswan "Matz is Nice And So We Are Nice"- https://en.wikipedia.org/wiki/MINASWAN
