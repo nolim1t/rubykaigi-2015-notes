@@ -21,3 +21,4 @@
 * Ruby doesn't throw away everything. It just replaces one piece of functionality at a time (and test). Prepared migration path.
 * Ruby has a nice compatibility between 1.9 and 2.0 - lesson learnt from 1.8 to 1.9
 * Ruby 3 will have concurrency and multi-core
+* Ruby 3 will be 3 times faster than Ruby 2
