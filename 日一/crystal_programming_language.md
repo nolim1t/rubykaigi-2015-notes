@@ -27,3 +27,4 @@
 * Installing: brew install crystal-lang
 * Distributed package manager built in
 * Web framework: https://github.com/dhruvrajvanshi/Moonshine (Similar to Sinatra), https://github.com/Codcore/amethyst (Similar Rails)
+* Libraries: https://crystalshards.herokuapp.com/ | https://github.com/zamith/crystalshards
