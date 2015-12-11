@@ -23,3 +23,4 @@
 * Ruby 3 will have concurrency and multi-core
 * Ruby 3 will be 3 times faster than Ruby 2
 * Ruby 3 will be before the Olympics in 2020
+* Thanks to [Heroku](https://heroku.com) for supporting Ruby
