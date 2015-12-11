@@ -26,3 +26,4 @@
 * Benchmarks https://github.com/kostya/benchmarks
 * Installing: brew install crystal-lang
 * Distributed package manager built in
+* Web framework: Moonshine (sinatra), https://github.com/Codcore/amethyst (Like Rails)
